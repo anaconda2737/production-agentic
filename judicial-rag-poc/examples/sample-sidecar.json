@@ -1,0 +1,16 @@
+{
+  "case_name": "Example Petitioner v. Example University",
+  "case_number": "W.P.(C) 1234/2022",
+  "court": "Delhi High Court",
+  "decision_date": "2022-08-15",
+  "neutral_citation": "2022:DHC:1234",
+  "reporter_citations": ["2022 SCC OnLine Del 1234"],
+  "aliases": ["Example Petitioner vs Example University"],
+  "parties": [
+    {"name": "Example Petitioner", "role": "petitioner", "aliases": ["E. Petitioner"]},
+    {"name": "Example University", "role": "respondent"}
+  ],
+  "cited_cases": [],
+  "source_uri": "https://example.org/judgment/1234"
+}
+
